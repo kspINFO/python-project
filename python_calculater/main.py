@@ -13,7 +13,7 @@ elif operator=='-':
     result=num1-num2
     print(result)
 elif operator=='*':
-    result=num1*num2
+    result=num1*num2 
     print(result)
 elif operator=='/':
     result=num1/num2
